@@ -15,12 +15,12 @@
 
 ## About
 
-Backend & distributed-systems engineer at **Vimaan** — 1.5 years building event-driven Python microservices that orchestrate health checks, event triggering, and accuracy validation across **12+ services** in production warehouses. **IIT Madras Dual Degree, 2024.**
+Backend & distributed-systems engineer at **Vimaan** - 2 years building event-driven Python microservices that orchestrate health checks, event triggering, and accuracy validation across **12+ services** in production warehouses. **IIT Madras Dual Degree, 2024.**
 
 Three threads I'm pulling on right now:
 
 - **Distributed systems** - Kafka, Redis, Neo4j, PostgreSQL: the messy production parts of building reliable services.
-- DSA/programming - trying to build habit of finding patterns, writing my own tricks, backed by a personal **600+ card DSA Mastery Map** spanning every pattern, tricks I've shipped, debugged, or interviewed on.
+- **DSA/programming** - trying to build habit of finding patterns, writing my own tricks, backed by a personal **600+ card DSA Mastery Map** spanning every pattern, tricks I've shipped, debugged, or interviewed on.
 - **Local-first AI** - multi-agent simulations and system-design copilots running on Ollama. No API quotas, no rate limits, just a laptop and a hypothesis.
 
 ---
