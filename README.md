@@ -147,9 +147,10 @@ A **Zuul-inspired API Gateway** built ground-up — JWT auth, Redis-backed rate 
 
 ## Currently
 
-- Climbing toward **Codeforces Grandmaster**
-- Maintaining a **600+ card DSA Mastery Map** — every pattern from interviews, contests, and prod debugging
+- Experimenting with my ideas with claude(pro subscription, tokens jldi khtm hote h :(... ). Using mirofish for conducting social experiments to learn how agents would react on different topics and what are their takes based on the inputs i provide. 
+- Maintaining a **DSA Mastery Map** — to build habits for patterns, tricks from interviews, contests, and prod debugging
 - Pushing how much real product can ship on Ollama + a laptop, before reaching for a hosted API
+- Learning about **HLD** topics to help my managers solving production level issue, to help my team optimize the systems
 
 ---
 
@@ -168,7 +169,7 @@ A **Zuul-inspired API Gateway** built ground-up — JWT auth, Redis-backed rate 
 
 ## Contact
 
-Open to **Backend / Distributed Systems / Platform Engineering** roles where the bottleneck is a real thing and not a JIRA ticket.
+Open to **Backend / Distributed Systems / Platform Engineering / SDE** roles where the bottleneck is a real thing and not a JIRA ticket.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhanshu05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhanshu.0511@gmail.com)
