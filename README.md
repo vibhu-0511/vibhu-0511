@@ -131,39 +131,12 @@ Role-based **server provisioning platform** with multi-stage approval workflows,
 
 ---
 
-### Apex Gateway
-
-> *Off-the-shelf gateways hide the interesting parts. Building one from scratch forces you to confront every failure mode.*
-
-A **Zuul-inspired API Gateway** built ground-up — JWT auth, Redis-backed rate limiting, dynamic routing across **10+ microservices**, circuit breakers and round-robin load balancing for failure isolation.
-
-| | |
-|---|---|
-| **Stack** | Java · Spring Boot · Redis · JWT · Resilience4j · Docker |
-| **Features** | JWT auth · Redis rate limiting · Dynamic routing · Circuit breakers · Round-robin LB |
-| **Impact** | Single entry point for 10+ services with downstream failure isolation |
-
----
-
 ## Currently
 
 - Experimenting with my ideas with claude(pro subscription, tokens jldi khtm hote h :(... ). Using mirofish for conducting social experiments to learn how agents would react on different topics and what are their takes based on the inputs i provide. 
 - Maintaining a **DSA Mastery Map** — to build habits for patterns, tricks from interviews, contests, and prod debugging
 - Pushing how much real product can ship on Ollama + a laptop, before reaching for a hosted API
 - Learning about **HLD** topics to help my managers solving production level issue, to help my team optimize the systems
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/vibhu-0511">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vibhu-0511&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhu-0511&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</a>
-
-</div>
 
 ---
 
