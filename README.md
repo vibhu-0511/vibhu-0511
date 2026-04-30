@@ -2,7 +2,7 @@
 
 # Vibhanshu Dutt
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend+%26+Distributed-Systems+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+Neo4j;IIT+Madras+Dual+Degree+%E2%80%A2+2024;DSA+Grinder+%E2%80%A2+200%2B+DSA+Mastery+Cards;Building+Local-First+Multi-Agent+AI+Labs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend+%26+Distributed-Systems+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+Neo4j;Building+Local-First+Multi-Agent+AI+Labs)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhanshu05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vibhanshu.0511@gmail.com)
@@ -21,7 +21,8 @@ Three threads I'm pulling on right now:
 
 - **Distributed systems** - Kafka, Redis, Neo4j, PostgreSQL: the messy production parts of building reliable services.
 - **DSA/programming** - trying to build habit of finding patterns, writing my own tricks, backed by a personal **200+ card DSA Mastery Map** spanning every pattern, tricks I've shipped, debugged, or interviewed on.
-- **Local-first AI** - multi-agent simulations and system-design copilots running on Ollama. No API quotas, no rate limits, just a laptop and a hypothesis.
+- **Local-first AI** - multi-agent simulations and system-design copilots running on Ollama. No API quotas, no rate limits, just a laptop and a hypothesis. Using Aquarium to run social experiments, explore discussions, and understand how agents behave under different scenarios.
+- Learning about **HLD** to help my peers solving production level issue and to optimize the systems
 
 ---
 
@@ -136,7 +137,7 @@ Role-based **server provisioning platform** with multi-stage approval workflows,
 - Experimenting with my ideas with claude(pro subscription, tokens jldi khtm hote h :(... ). Using mirofish for conducting social experiments to learn how agents would react on different topics and what are their takes based on the inputs i provide. 
 - Maintaining a **DSA Mastery Map** — to build habits for patterns, tricks from interviews, contests, and prod debugging
 - Pushing how much real product can ship on Ollama + a laptop, before reaching for a hosted API
-- Learning about **HLD** topics to help my managers solving production level issue, to help my team optimize the systems
+- Learning about **HLD** topics to help my managers solving production level issue and help my team optimize the systems
 
 ---
 
