@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhanshu05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vibhanshu.0511@gmail.com)
 [![Bangalore](https://img.shields.io/badge/Bangalore,%20India-2EA44F?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Open to roles](https://img.shields.io/badge/Open%20to-Backend%20%2F%20Platform%20roles-blueviolet?style=flat-square)](mailto:vibhanshu.0511@gmail.com)
+[![Open to roles](https://img.shields.io/badge/Open%20to-Backend%20%2F%20Platform%20%2F%20SDE%20roles-blueviolet?style=flat-square)](mailto:vibhanshu.0511@gmail.com)
 
 </div>
 
@@ -15,12 +15,12 @@
 
 ## About
 
-Backend & distributed-systems engineer at **Vimaan** - 2 years building event-driven Python microservices that orchestrate health checks, event triggering, and accuracy validation across **12+ services** in production warehouses. **IIT Madras Dual Degree, 2024.**
+Backend & distributed-systems engineer at **Vimaan** - 2 years building event-driven Python microservices that orchestrate health checks, event triggering, and accuracy validation across **12+ microservices** in production. **IIT Madras Dual Degree, 2024.**
 
 Three threads I'm pulling on right now:
 
 - **Distributed systems** - Kafka, Redis, Neo4j, PostgreSQL: the messy production parts of building reliable services.
-- **DSA/programming** - trying to build habit of finding patterns, writing my own tricks, backed by a personal **600+ card DSA Mastery Map** spanning every pattern, tricks I've shipped, debugged, or interviewed on.
+- **DSA/programming** - trying to build habit of finding patterns, writing my own tricks, backed by a personal **200+ card DSA Mastery Map** spanning every pattern, tricks I've shipped, debugged, or interviewed on.
 - **Local-first AI** - multi-agent simulations and system-design copilots running on Ollama. No API quotas, no rate limits, just a laptop and a hypothesis.
 
 ---
