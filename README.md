@@ -2,7 +2,7 @@
 
 # Vibhanshu Dutt
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend+%26+Distributed-Systems+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+Neo4j;Building+Local-First+Multi-Agent+AI+Labs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend+%26+Distributed-Systems+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+LLMs+%E2%80%A2+Docker+%E2%80%A2+Kafka;Building+Local-First+Multi-Agent+AI+Labs)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhanshu05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vibhanshu.0511@gmail.com)
