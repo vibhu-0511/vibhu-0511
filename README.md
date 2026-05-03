@@ -17,62 +17,14 @@
 
 Backend & distributed-systems engineer at **Vimaan** - 2 years building event-driven Python microservices that orchestrate health checks, event triggering, and accuracy validation across **12+ microservices** in production. **IIT Madras Dual Degree, 2024.**
 
-Three threads I'm pulling on right now:
+Threads I'm pulling on right now:
 
 - **Distributed systems** - Kafka, Redis, Neo4j, PostgreSQL: the messy production parts of building reliable services.
 - **DSA/programming** - trying to build habit of finding patterns, writing my own tricks, backed by a personal **200+ card DSA Mastery Map** spanning every pattern, tricks I've shipped, debugged, or interviewed on.
 - **Local-first AI** - multi-agent simulations and system-design copilots running on Ollama. No API quotas, no rate limits, just a laptop and a hypothesis. Using Aquarium to run social experiments, explore discussions, and understand how agents behave under different scenarios.
-- Learning about **HLD** to help my peers solving production level issue and to optimize the systems
+- **System Design** - Learning about **HLD** to help my peers solving production level issue and to optimize the systems
 
----
-
-## Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
-![Resilience4j](https://img.shields.io/badge/Resilience4j-2C3E50?style=flat-square)
-
-**Data & Streaming**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
-
-**AI / LLM**
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MiroFish](https://img.shields.io/badge/MiroFish-7B4FFF?style=flat-square)
-![ReAct Agents](https://img.shields.io/badge/ReAct%20Agents-FF6F61?style=flat-square)
-
-**Infra & Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Featured Projects
+## Turning Ideas into Execution
 
 ### [aquarium-for-mirofish](https://github.com/vibhu-0511/aquarium-for-mirofish)
 
@@ -85,22 +37,6 @@ An experimentation lab built on **MiroFish-Offline** — adds claim verification
 | **Stack** | Python · MiroFish · Local LLMs (Ollama) · Multi-agent orchestration |
 | **Features** | Claim verification layer · Agent memory store · Robustness scoring · Swappable LLM backend |
 | **Impact** | Reproducible offline social simulations — zero API cost, zero rate limits |
-
----
-
-### [hld-architect-copilot](https://github.com/vibhu-0511/hld-architect-copilot)
-
-> *System-design interviews and real outages ask the same question — can you spot the bottleneck before it bites? But there's no gym for it. You read post-mortems, then forget them.*
-
-A browser-based system-design playground. Practice architecting real systems, replay famous outages, hunt bugs in deliberately flawed designs, run capacity numbers — grounded in a curated **255-note system-design vault**.
-
-| | |
-|---|---|
-| **Stack** | JavaScript · Browser-first (no backend) · Static deploy |
-| **Features** | Outage replay · Flawed-design bug hunts · Capacity calculators · 255-note design vault |
-| **Impact** | Turns passive post-mortem reading into active interview prep — works offline |
-
-<!-- [Live Demo](https://vibhu-0511.github.io/hld-architect-copilot) — uncomment after deploy -->
 
 ---
 
@@ -132,18 +68,19 @@ Role-based **server provisioning platform** with multi-stage approval workflows,
 
 ---
 
-## Currently
+### [hld-architect-copilot](https://github.com/vibhu-0511/hld-architect-copilot)
 
-- Experimenting with my ideas with claude(pro subscription, tokens jldi khtm hote h :(... ). Using mirofish for conducting social experiments to learn how agents would react on different topics and what are their takes based on the inputs i provide. 
-- Maintaining a **DSA Mastery Map** — to build habits for patterns, tricks from interviews, contests, and prod debugging
-- Pushing how much real product can ship on Ollama + a laptop, before reaching for a hosted API
-- Learning about **HLD** topics to help my managers solving production level issue and help my team optimize the systems
+> *System-design interviews and real outages ask the same question — can you spot the bottleneck before it bites? But there's no gym for it. You read post-mortems, then forget them.*
+
+A browser-based system-design playground. Practice architecting real systems, replay famous outages, hunt bugs in deliberately flawed designs, run capacity numbers — grounded in a curated **255-note system-design vault**.
+
+| | |
+|---|---|
+| **Stack** | JavaScript · Browser-first (no backend) · Static deploy |
+| **Features** | Outage replay · Flawed-design bug hunts · Capacity calculators · 255-note design vault |
+| **Impact** | Turns passive post-mortem reading into active interview prep — works offline |
+
+<!-- [Live Demo](https://vibhu-0511.github.io/hld-architect-copilot) — uncomment after deploy -->
 
 ---
 
-## Contact
-
-Open to **Backend / Distributed Systems / Platform Engineering / SDE** roles where the bottleneck is a real thing and not a JIRA ticket.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhanshu05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhanshu.0511@gmail.com)
