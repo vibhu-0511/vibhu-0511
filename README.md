@@ -40,7 +40,7 @@ An experimentation lab built on **MiroFish-Offline** — adds claim verification
 
 ---
 
-### RootScope
+### [RootScope](https://github.com/vibhu-0511/rootscope)
 
 > *Engineers waste hours retracing the same incident across Jira, Confluence, and GitLab. Search is keyword-based; debugging is semantic.*
 
